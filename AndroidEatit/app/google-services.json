@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527640990818",
+    "firebase_url": "https://andrroideatit.firebaseio.com",
+    "project_id": "andrroideatit",
+    "storage_bucket": "andrroideatit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527640990818:android:1235e48cd01659fc",
+        "android_client_info": {
+          "package_name": "edmt.dev.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527640990818-su9bcihdf3osvl1p13i4t4kpfluor3op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edmt.dev.androideatit",
+            "certificate_hash": "88cd41891ad17706bfb50cce233db344117bf665"
+          }
+        },
+        {
+          "client_id": "527640990818-jh4elbal07fnnrqslvu4lbl46t7qtufk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-YZFfc97jZGtCTZ57nQjMGiGCkhv44c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527640990818-jh4elbal07fnnrqslvu4lbl46t7qtufk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
